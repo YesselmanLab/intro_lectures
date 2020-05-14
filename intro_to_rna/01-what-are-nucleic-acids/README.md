@@ -21,9 +21,5 @@ the_building_blocks_of_dna_and_rna.pdf
 
 
 
-Assignment: 
-
-Summerize all the reading into 1 to 2 sentence summaries of the major points
-
 
 
