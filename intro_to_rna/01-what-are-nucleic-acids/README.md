@@ -5,6 +5,12 @@ This lecture is to give an **broad** overview of both DNA and RNA.
 
 
 
+Whatch video:
+
+https://www.youtube.com/watch?v=6NhDY3IDp00
+
+
+
 Reading:
 
 Covers the basics of what nucleic acids, both DNA and RNA
