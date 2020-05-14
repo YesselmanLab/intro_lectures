@@ -1,18 +1,23 @@
-lecture 1
+lecture 1: what are nucleic acids, and what are they composed of?
 ---------
+
+This lecture is to give an **broad** overview of both DNA and RNA. 
+
+
 
 Reading:
 
-Go through and answer all the question at the bottom <br>
-https://courses.lumenlearning.com/wmopen-nmbiology1/chapter/nucleic-acids/
+Covers the basics of what nucleic acids, both DNA and RNA
 
-https://learn.genetics.utah.edu/content/basics/rna/
+the_structures_of_DNA_and_RNA.pdf
 
-And watch these two videos: <br>
-https://www.youtube.com/watch?v=JQByjprj_mA <br>
+the_building_blocks_of_dna_and_rna.pdf
 
-https://www.youtube.com/watch?v=WCrlm18KQ48
+
 
 Assignment: 
 
 Summerize all the reading into 1 to 2 sentence summaries of the major points
+
+
+
