@@ -5,7 +5,7 @@ This lecture is to give an **broad** overview of both DNA and RNA.
 
 
 
-Whatch video:
+Watch video:
 
 https://www.youtube.com/watch?v=6NhDY3IDp00
 
